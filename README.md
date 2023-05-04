@@ -1,2 +1,2 @@
-# bubble sort package
+#sort package
 Group Project for CS3 
