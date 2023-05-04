@@ -1,2 +1,7 @@
-Sort Package
-Group Project for CS3 
+#Sort Package
+
+This package provides two sorting algorithms: bubble sort & quick sort. 
+
+To install: 
+You can install the package using 'pip'.
+
