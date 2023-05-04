@@ -8,4 +8,5 @@ You can install the package using 'pip'.
 Github link: https://github.com/iffysravioli/sort
 
 This project idea: https://www.dataquest.io/blog/python-projects-for-beginners/
->>>>>>> 9b3494632d1a87b991bd6cc7f946b3b39fdd7642
+
+Final Documentation: https://docs.google.com/document/d/1Q-kOHL3o-nJkortyjDtwQ9GorNxti5HDnRUf3gI6ZEo/edit?usp=sharing
