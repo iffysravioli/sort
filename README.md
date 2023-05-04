@@ -1,4 +1,4 @@
-#Sort Package
+# Sort Package
 
 This package provides two sorting algorithms: bubble sort & quick sort. 
 
