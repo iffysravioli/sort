@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(
-    name='sorting_package',
+    name='issorting_package',
     version='0.1',
     description='This a package for sorting arrays using various algorithms. Idea from:https://www.dataquest.io/blog/python-projects-for-beginners/',
     py_modules=['sorting_package'],
