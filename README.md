@@ -3,9 +3,6 @@
 This package provides two sorting algorithms: bubble sort & quick sort. 
 
 To install: 
-<<<<<<< HEAD
-You can install the package using 'pip'.
-=======
 You can install the package using 'pip'.
 
 Github link: https://github.com/iffysravioli/sort
